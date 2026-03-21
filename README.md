@@ -1,25 +1,25 @@
-<!-- Typing SVG header -->
+<!-- Header wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f7fa,30:b3e5fc,70:81d4fa,100:4fc3f7&height=200&section=header&text=V1RUS-OvO&fontSize=72&fontColor=0277bd&fontAlignY=38&desc=%F0%9F%90%BE%20Furry%20%7C%20AI%20Coder%20%7C%20Vibe%20Only&descSize=18&descAlignY=62&descColor=0288d1&animation=fadeIn" />
+
 <div align="center">
 
-<!-- Animated banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1a3a5c,100:4fc3f7&height=200&section=header&text=V1RUS-OvO&fontSize=70&fontColor=e0f7fa&fontAlignY=38&desc=%F0%9F%90%BE%20Furry%20%7C%20AI%20Coder%20%7C%20Vibe%20Only&descSize=18&descAlignY=62&animation=fadeIn" />
-
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=%F0%9F%90%BE+%E5%8F%98%E6%80%81%E7%A6%8F%E7%91%9E%E6%8E%A7%E5%8D%A1%E5%8D%A1%EF%BC%88+online...;%F0%9F%A4%96+AI+coding+%E7%88%B1%E5%A5%BD%E8%80%85+%7C+vibe+coder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0288D1&center=true&vCenter=true&multiline=true&width=620&height=80&lines=%F0%9F%90%BE+%E5%8F%98%E6%80%81%E7%A6%8F%E7%91%9E%E6%8E%A7%E5%8D%A1%E5%8D%A1%EF%BC%88+online...;%F0%9F%A4%96+AI+coding+%E7%88%B1%E5%A5%BD%E8%80%85+%7C+vibe+coder+%F0%9F%8C%8A)](https://git.io/typing-svg)
 
-<!-- Social badges -->
+<!-- Badges -->
 <p>
-  <a href="https://github.com/V1RUS-OvO"><img src="https://img.shields.io/github/followers/V1RUS-OvO?label=Followers&style=for-the-badge&color=4fc3f7&labelColor=0d1b2a&logo=github" /></a>
-  <img src="https://img.shields.io/badge/Furry-Yes%20%F0%9F%90%BE-blue?style=for-the-badge&color=4fc3f7&labelColor=0d1b2a" />
-  <img src="https://img.shields.io/badge/AI%20Coding-Claude%20%E2%9D%A4-blueviolet?style=for-the-badge&color=7c4dff&labelColor=0d1b2a" />
-  <img src="https://komarev.com/ghpvc/?username=V1RUS-OvO&style=for-the-badge&color=4fc3f7&label=VISITORS" />
+  <a href="https://github.com/V1RUS-OvO">
+    <img src="https://img.shields.io/github/followers/V1RUS-OvO?label=Followers&style=for-the-badge&color=0288d1&labelColor=e0f7fa&logo=github&logoColor=0288d1" />
+  </a>
+  <img src="https://img.shields.io/badge/Furry-%F0%9F%90%BE_Yes-0288d1?style=for-the-badge&labelColor=e0f7fa&logoColor=0288d1" />
+  <img src="https://img.shields.io/badge/AI%20Coding-Claude%20%E2%9D%A4-7c4dff?style=for-the-badge&labelColor=ede7f6" />
+  <img src="https://komarev.com/ghpvc/?username=V1RUS-OvO&style=for-the-badge&color=0288d1&label=VISITORS&base=100" />
 </p>
 
 </div>
 
 ---
 
-<!-- About section -->
 <div align="center">
 
 ## 🌊 About Me
@@ -37,21 +37,21 @@ const V1RUS = {
   tools:    ["Claude Code", "Cursor", "MCP servers", "vibes"],
   status:   "coding with AI so I don't have to 🤖",
 
-  funFact:  "I use AI to write code I can't write myself — and it slaps 🎯",
+  funFact:  "I let AI write code I can't write — and it slaps 🎯",
 };
 ```
 
 ---
 
-<!-- Stats section -->
+<!-- Stats -->
 <div align="center">
 
 ## 📊 Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=V1RUS-OvO&show_icons=true&theme=transparent&title_color=4fc3f7&icon_color=4fc3f7&text_color=e0f7fa&border_color=1a3a5c&bg_color=0d1b2a&hide_border=false&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1RUS-OvO&layout=compact&theme=transparent&title_color=4fc3f7&text_color=e0f7fa&border_color=1a3a5c&bg_color=0d1b2a&hide_border=false" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=V1RUS-OvO&show_icons=true&theme=default&title_color=0288d1&icon_color=29b6f6&text_color=37474f&border_color=b3e5fc&bg_color=ffffff&hide_border=false&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1RUS-OvO&layout=compact&theme=default&title_color=0288d1&text_color=37474f&border_color=b3e5fc&bg_color=ffffff" />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=V1RUS-OvO&theme=transparent&background=0d1b2a&border=1a3a5c&ring=4fc3f7&fire=ff6b6b&currStreakNum=e0f7fa&sideNums=e0f7fa&currStreakLabel=4fc3f7&sideLabels=4fc3f7&dates=7fb3d3" />
+<img width="68%" src="https://streak-stats.demolab.com?user=V1RUS-OvO&theme=default&background=ffffff&border=b3e5fc&ring=0288d1&fire=ff7043&currStreakNum=0288d1&sideNums=37474f&currStreakLabel=0288d1&sideLabels=0288d1&dates=90a4ae" />
 
 </div>
 
@@ -62,53 +62,53 @@ const V1RUS = {
 
 ## 🐾 Paw Prints (Activity)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=V1RUS-OvO&bg_color=0d1b2a&color=4fc3f7&line=1a3a5c&point=4fc3f7&area=true&area_color=1a3a5c&hide_border=false&border_color=1a3a5c&title_color=4fc3f7)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=V1RUS-OvO&bg_color=ffffff&color=0288d1&line=29b6f6&point=0277bd&area=true&area_color=e0f7fa&hide_border=false&border_color=b3e5fc&title_color=0288d1)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-<!-- Tools & Stack -->
+<!-- Stack -->
 <div align="center">
 
 ## 🛠️ My AI-Powered Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Claude-Code-4fc3f7?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0d1b2a" />
-  <img src="https://img.shields.io/badge/Cursor-IDE-4fc3f7?style=for-the-badge&logo=cursor&logoColor=white&labelColor=0d1b2a" />
-  <img src="https://img.shields.io/badge/MCP-Servers-7c4dff?style=for-the-badge&logo=protocol.ai&logoColor=white&labelColor=0d1b2a" />
+  <img src="https://img.shields.io/badge/Claude_Code-Opus_4.6-0288d1?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=29b6f6" />
+  <img src="https://img.shields.io/badge/Cursor-IDE-0288d1?style=for-the-badge&logo=cursor&logoColor=white&labelColor=29b6f6" />
+  <img src="https://img.shields.io/badge/MCP-9_Servers-7c4dff?style=for-the-badge&logoColor=white&labelColor=b39ddb" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-4fc3f7?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1b2a" />
-  <img src="https://img.shields.io/badge/Python-4fc3f7?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1b2a" />
-  <img src="https://img.shields.io/badge/Next.js-e0f7fa?style=for-the-badge&logo=nextdotjs&logoColor=black&labelColor=1a3a5c" />
-  <img src="https://img.shields.io/badge/Docker-4fc3f7?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1b2a" />
+  <img src="https://img.shields.io/badge/TypeScript-0288d1?style=for-the-badge&logo=typescript&logoColor=white&labelColor=e1f5fe" />
+  <img src="https://img.shields.io/badge/Python-0288d1?style=for-the-badge&logo=python&logoColor=white&labelColor=e1f5fe" />
+  <img src="https://img.shields.io/badge/Next.js-0288d1?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=e1f5fe" />
+  <img src="https://img.shields.io/badge/Docker-0288d1?style=for-the-badge&logo=docker&logoColor=white&labelColor=e1f5fe" />
 </p>
 
 </div>
 
 ---
 
-<!-- Furry section -->
+<!-- Furry corner -->
 <div align="center">
 
 ## 🐾 Furry Corner
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1b2a,100:1a3a5c&height=60&section=header&text=%F0%9F%90%BA%20The%20fandom%20is%20real%20%F0%9F%90%BA&fontSize=20&fontColor=4fc3f7" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:e0f7fa,100:b3e5fc&height=55&text=%F0%9F%90%BA+The+fandom+is+real+%F0%9F%90%BA&fontSize=20&fontColor=0288d1" />
 
 > *"In the digital wilderness, every commit is a paw print."* 🐾
 
 | 🎨 Fursona | 🤖 AI Setup | 🌐 Vibes |
 |:---:|:---:|:---:|
-| Digital Wolf/Fox mix | Claude Code + 9 MCPs | Blue & White only |
+| Digital Wolf / Fox mix | Claude Code + 9 MCPs | Blue & White only |
 | Electric blue & white | Opus 4.6 powered | Maximum furry energy |
 
 </div>
 
 ---
 
-<!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4fc3f7,50:1a3a5c,100:0d1b2a&height=120&section=footer&text=%F0%9F%90%BE+Stay+Fluffy&fontSize=24&fontColor=e0f7fa&fontAlignY=65" />
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4fc3f7,50:81d4fa,100:e0f7fa&height=120&section=footer&text=%F0%9F%90%BE+Stay+Fluffy&fontSize=24&fontColor=0277bd&fontAlignY=65" />
 
 <div align="center">
   <sub>Made with 🤖 Claude Code + 🐾 furry energy</sub>
